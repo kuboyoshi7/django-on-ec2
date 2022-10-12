@@ -15,10 +15,10 @@ You will need django to be installed in you computer to run this app. Head over 
 
 Download django usig pip
 ```bash
-sudo apt-get install python-pip
+sudo apt-get install python-pip -y
 ```
 ```bash
-pip install django
+pip install django -y
 ```
 Once you have downloaded django, go to the cloned repo directory and run the following command
 
