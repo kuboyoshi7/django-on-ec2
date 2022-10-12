@@ -18,7 +18,7 @@ Download django usig pip
 sudo apt install python3-pip -y
 ```
 ```bash
-pip install django -y
+pip install django
 ```
 Once you have downloaded django, go to the cloned repo directory and run the following command
 
