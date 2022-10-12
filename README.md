@@ -15,7 +15,7 @@ You will need django to be installed in you computer to run this app. Head over 
 
 Download django usig pip
 ```bash
-sudo apt-get install python-pip -y
+sudo apt install python3-pip
 ```
 ```bash
 pip install django -y
